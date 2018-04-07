@@ -1,0 +1,7 @@
+C:\Users\mryeu\Desktop\Git\TCPClientTerminal\TCPClientTerminal\bin\Release\TCPClientTerminal.exe.config
+C:\Users\mryeu\Desktop\Git\TCPClientTerminal\TCPClientTerminal\bin\Release\TCPClientTerminal.exe
+C:\Users\mryeu\Desktop\Git\TCPClientTerminal\TCPClientTerminal\bin\Release\TCPClientTerminal.pdb
+C:\Users\mryeu\Desktop\Git\TCPClientTerminal\TCPClientTerminal\obj\Release\TCPClientTerminal.csproj.CoreCompileInputs.cache
+C:\Users\mryeu\Desktop\Git\TCPClientTerminal\TCPClientTerminal\obj\Release\TCPClientTerminal.exe
+C:\Users\mryeu\Desktop\Git\TCPClientTerminal\TCPClientTerminal\obj\Release\TCPClientTerminal.pdb
+C:\Users\mryeu\Desktop\Git\TCPClientTerminal\TCPClientTerminal\obj\Release\TCPClientTerminal.csprojResolveAssemblyReference.cache
